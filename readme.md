@@ -5,4 +5,4 @@
 
 # :pushpin: Sumary 
 
-### [Binary Gap](lesson.py)
+### [Binary Gap](binary_gap)
