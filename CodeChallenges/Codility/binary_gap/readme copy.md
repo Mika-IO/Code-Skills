@@ -5,9 +5,7 @@
 
 # :pushpin: Sumary 
 
-### [Python](Python)
-### [Javascript](Javascript)
-### [Rust](Rust)
-### [Go](Go)
-
-### [CodeChallenges](CodeChallenges)
+### [Python](python)
+### [Javascript](javascript)
+### [Rust](rust)
+### [Go](go)
